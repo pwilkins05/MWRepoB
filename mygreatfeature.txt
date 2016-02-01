@@ -1,0 +1,9 @@
+This is my idea for a great feature.
+
+My feature would allow you to have coffee and muffins delivered to your desk whenever you request it.
+
+This would be implemented by drones who could open doors and carry coffee and muffins as payload.
+
+The drones would have lights and make beeping sounds when they traversed hallways.  There would be protective cages around the blades to protect bystanders.
+
+The delivery drones would be equipped with tasers to protect their valuable payload.
