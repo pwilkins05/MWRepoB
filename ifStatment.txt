@@ -1,0 +1,8 @@
+if(Cat == Grumpy)
+{
+	Take picture of cat
+}
+else
+{
+	make cat grumpy
+}
